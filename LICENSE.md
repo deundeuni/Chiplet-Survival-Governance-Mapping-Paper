@@ -1,43 +1,26 @@
-Creative Commons Attribution 4.0 International Public License
+# Open Publication & Defensive License
 
-Copyright (c) 2026 deundeuni (deundeunilab)
+This repository and all its contents (including technical specifications, architecture blueprints, and documentation) are published as defensive prior art by the author (**deundeuni** / **soma-moa**) under the following dual-license framework:
 
-=======================================================================
-DISCLAIMER & NON-PATENT CLAIM NOTICE
-=======================================================================
+---
 
-1. OPEN SHARING & NON-PATENT CLAIM:
-   This work, idea white paper, and associated technical concepts are freely 
-   shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0) 
-   for defensive publication, public-interest sharing, and academic open discourse. 
-   The Author/Licensor does NOT claim any exclusive patent rights, monopolies, or legal 
-   exclusivity over the ideas described herein.
+### 1. Creative Commons Attribution 4.0 International (CC BY 4.0)
+You are free to share, copy, modify, and distribute this material for any purpose, including commercial use, provided that appropriate attribution is given to the original author.
+* **Official License Reference:** [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-2. AS-IS PROVISION & NO WARRANTY:
-   THE LICENSED MATERIAL IS PROVIDED BY THE LICENSOR "AS-IS" AND "AS-AVAILABLE", 
-   WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT 
-   LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
-   ACCURACY, OR NON-INFRINGEMENT. 
+---
 
-3. ORIGINAL PRECEDENCE:
-   The Korean original document (`README.ko.md`) serves as the binding primary text, 
-   and all translations (including `README.md`) are provided solely for reference.
+### 2. Defensive Publication License v1.0 (DPL v1.0)
+To prevent private patent monopolization and protect open safety infrastructure, the following conditions strictly apply to all users and licensees:
 
-=======================================================================
-CC BY 4.0 SUMMARY OF RIGHTS
-=======================================================================
+* **Scope of License:** Grants a non-exclusive, worldwide, royalty-free license to use, implement, and build upon the concepts and specifications contained within this repository.
+* **Attribution Requirement:** Any derivative work, implementation, or distribution must retain copyright notices and credit the original author (`deundeuni` / `soma-moa`).
+* **Retroactive Termination Clause:** If any entity, affiliate, or individual initiates, asserts, or participates in patent infringement litigation or legal claims regarding this architecture against the original author (`deundeuni`), `soma-moa`, or ecosystem participants using this framework, all license rights granted under CC BY 4.0 and DPL v1.0 shall terminate retroactively from the initial date of use.
+* **Prior Art & Prior User Rights:** This repository constitutes documented prior art under Article 103 of the Korean Patent Act and 35 U.S.C. §273 to defeat third-party patent claims.
 
-You are free to:
-  - Share — copy and redistribute the material in any medium or format for any purpose.
-  - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+---
 
-Under the following terms:
-  - Attribution — You must give appropriate credit (Author: deundeuni / Org: deundeunilab), 
-    provide a link to the license, and indicate if changes were made. You may do so in 
-    any reasonable manner, but not in any way that suggests the licensor endorses 
-    you or your use.
-  - No additional restrictions — You may not apply legal terms or technological measures 
-    that legally restrict others from doing anything the license permits.
-
-Full Legal Code Available At:
-https://creativecommons.org/licenses/by/4.0/legalcode
+### Copyright & Intellectual Property Notice
+* **Original IP Holder & Architect:** deundeuni (`soma-moa`)
+* **Primary Repository:** [github.com/soma-moa](https://github.com/soma-moa) | **Official Domain:** [somamoa.ai.kr](https://somamoa.ai.kr)
+* **Governing Original Text:** In the event of any linguistic or legal discrepancy, the Korean original text of the specification constitutes the sole binding authority.
