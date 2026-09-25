@@ -1,6 +1,3 @@
-## Chiplet-Survival-Governance-Mapping-Paper — v1.1 (최종 반영본)
-
-앞서 지적한 4개 항목 모두 반영됨.
 
 ---
 
